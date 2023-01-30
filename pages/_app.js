@@ -14,6 +14,9 @@ function MyApp({ Component, pageProps }) {
                 method: "simulator",
                 target: SIMULATOR_ADDR,
             },
+            {
+                url: "https://keychain-git-removenextrouting.preview.cartridge.gg/",
+            }
         ]),
     ];
 
